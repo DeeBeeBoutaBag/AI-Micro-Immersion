@@ -1,3 +1,5 @@
+<img src="https://github.com/Hgp-GeniusLabs/Curriculum/blob/10734f2c827128dde773ea4f266d154d46977866/Org-Wide/Assets/hgp_logo_original.png" width="150"/>
+
 ### Game Objective:
 Players must develop and deploy AI technologies in various scenarios within a fictional society called AI Utopia. The goal is to achieve the highest social welfare score, reflecting the positive impact of AI on the community while adhering to ethical guidelines and avoiding negative outcomes.
 
