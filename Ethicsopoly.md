@@ -1,3 +1,5 @@
+<img src="https://github.com/Hgp-GeniusLabs/Curriculum/blob/10734f2c827128dde773ea4f266d154d46977866/Org-Wide/Assets/hgp_logo_original.png" width="150"/>
+
 ### Game Objective:
 The objective of Ethicsopoly is to accumulate "Ethical Points" by making morally sound decisions, helping others, and contributing positively to society. Unlike traditional Monopoly, wealth accumulation is secondary and ethical behavior is the primary path to victory.
 
